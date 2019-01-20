@@ -22,4 +22,6 @@ public class MainActivity extends AppCompatActivity {
 
         //this only for test
     }
+    //git config --global user.email arwa201099@hotmail.com
+
 }
