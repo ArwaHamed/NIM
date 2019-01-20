@@ -1,0 +1,107 @@
+{
+  "project_info": {
+    "project_number": "1051182095676",
+    "firebase_url": "https://neuron-in-motion.firebaseio.com",
+    "project_id": "neuron-in-motion",
+    "storage_bucket": "neuron-in-motion.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051182095676:android:b06cd5c316f1abd1",
+        "android_client_info": {
+          "package_name": "com.example.forall.nim"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051182095676-uo23jiodrbpb0880calj9al1idufnqlh.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.forall.nim",
+            "certificate_hash": "872085513f54edddddc6731a4523aaffe68fa011"
+          }
+        },
+        {
+          "client_id": "1051182095676-3o85t9cpjn0fslojdm91gno0eglh8l12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4g1dpG99c7KKlN5Zamq-xpFyowHZZek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051182095676-3o85t9cpjn0fslojdm91gno0eglh8l12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1051182095676:android:e823c8c479a97b38",
+        "android_client_info": {
+          "package_name": "com.example.hanan.nim_gp"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1051182095676-94e0efosakbqnjfngk0sbhdmq1upj4kn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanan.nim_gp",
+            "certificate_hash": "2a15d819252df53c7467e630b2e5c6fd64b68693"
+          }
+        },
+        {
+          "client_id": "1051182095676-mfklq3vo58e9ouf8fik6n7af549tupde.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.hanan.nim_gp",
+            "certificate_hash": "79737f64e27e8632129fde79a256f7625cd8d80a"
+          }
+        },
+        {
+          "client_id": "1051182095676-3o85t9cpjn0fslojdm91gno0eglh8l12.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBF4g1dpG99c7KKlN5Zamq-xpFyowHZZek"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1051182095676-3o85t9cpjn0fslojdm91gno0eglh8l12.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
