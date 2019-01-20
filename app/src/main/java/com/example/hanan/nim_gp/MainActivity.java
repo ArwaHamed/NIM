@@ -12,9 +12,13 @@ public class MainActivity extends AppCompatActivity {
     }
 
     private void a(){
-        int i = 22;
+
+        int i = 23;
     }
 
+    private void b(){
+        int i = 23;
+    }
 
     //**this only for test***
 
