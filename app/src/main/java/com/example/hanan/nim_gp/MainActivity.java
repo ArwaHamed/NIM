@@ -14,4 +14,12 @@ public class MainActivity extends AppCompatActivity {
     private void a(){
         int i = 1;
     }
+
+
+    //**this only for test***
+
+    private void testForGithubHanan(){
+
+        //this only for test
+    }
 }
